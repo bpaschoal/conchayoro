@@ -1,7 +1,7 @@
 name: steps examples
 
 on:
-  push
+  workflow_dispatc
 
 jobs:
   hello_world_job:
